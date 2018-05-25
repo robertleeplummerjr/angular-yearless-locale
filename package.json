@@ -1,0 +1,27 @@
+{
+  "name": "angular-yearless-locale",
+  "version": "1.0.0",
+  "description": "angular locales without years",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertleeplummerjr/angular-yearless-locale.git"
+  },
+  "keywords": [
+    "angular",
+    "locales",
+    "locale",
+    "year",
+    "yearless",
+    "date"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertleeplummerjr/angular-yearless-locale/issues"
+  },
+  "homepage": "https://github.com/robertleeplummerjr/angular-yearless-locale#readme"
+}
